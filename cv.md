@@ -45,9 +45,16 @@ I like to communicate with different people, and also to find new friends. I lik
 ### Experience {#experience}
 
 ATC Support Group of the Bresk Regional Executive Committee
-: *Software Engineer*
+: *Support Programming Engineer*
   __2007-2009__
 
+KUPP "Brest Boiler House
+: *Software Engineer*
+  __2009-2010__
+
+PUE "Design Studio" LB "
+: *System(s) Administrator*
+  __2010-2019__
 ------
 ### Education {#education}
 
@@ -55,6 +62,8 @@ Initrode Conglomerated
 : *Brest State University. A.S. Pushkin*
   __2002-2007__
 
+: *Brest branch of GUO FPK on PM and computer BSU*
+  __2005-2007__
 ------
 ### English level {#englishlevel}
 
