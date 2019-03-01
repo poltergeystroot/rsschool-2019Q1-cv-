@@ -1,1 +1,1 @@
-[https://poltergeystroot.github.io/rsschool-2019Q1-cv/cv.md](https://poltergeystroot.github.io/rsschool-2019Q1-cv/cv.md)
+[https://poltergeystroot.github.io/rsschool-2019Q1-cv/cv](https://poltergeystroot.github.io/rsschool-2019Q1-cv/cv)
