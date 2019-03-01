@@ -1,1 +1,1 @@
->[https://your-githab-account.github.io/rsschool-2019Q1-cv/](HTML, CSS & Git Basics)
+[HTML, CSS & Git Basics](https://your-githab-account.github.io/rsschool-2019Q1-cv/)
