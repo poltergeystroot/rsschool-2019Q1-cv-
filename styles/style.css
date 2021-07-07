@@ -1,0 +1,196 @@
+body{
+  width: 1024px;
+  margin:0 auto;
+  font: 16px 'Roboto';
+}
+img{
+  position: relative;
+  left:21%;
+  top: 20px;
+  margin:0 auto;
+}
+header{
+  position: relative;
+  height: 210px;
+  background-color: #e7e7e7;
+}
+.header-text{
+  position: relative;
+  width: 450px;
+  height: 176px;
+  left:35%;
+  top: -181px;
+  background-color: #fff;
+}
+.header-text::after{
+  position: relative;
+  content: " ";
+  width: 1024px;
+  float: left;
+  left: -358px;
+  top: 32px;
+  border-top: 1px solid red;
+}
+.summary{
+  background-color: #fff;
+}
+.summary::after{
+  position: relative;
+  content: " ";
+  width: 1024px;
+  float: left;
+  top: 19px;
+  border-top: 1px solid red;
+}
+.skills{
+  background-color: #e7e7e7;
+}
+.skills::after{
+  position: relative;
+  content: " ";
+  width: 1024px;
+  float: left;
+  top: -16px;
+  border-top: 1px solid red;
+}
+.experience{
+  background-color: #fff;
+}
+.experience::after{
+  position: relative;
+  content: " ";
+  width: 1024px;
+  float: left;
+  top: 18px;
+  border-top: 1px solid red;
+}
+.education{
+  background-color: #e7e7e7;
+}
+.education::after{
+    position: relative;
+    content: " ";
+    width: 1024px;
+    float: left;
+    top: -2px;
+    border-top: 1px solid red;
+  }
+.english-level{
+    background-color: #fff;
+}
+.english-level::after{
+  position: relative;
+  content: " ";
+  width: 1024px;
+  top: 0px;
+  float: left;
+  border-top: 1px solid red;
+}
+footer{
+  padding: 20px 0;
+  background-color: #e7e7e7;
+}
+.social-icon{
+  position: relative;
+  top: 10px;
+  display: inline-block;
+}
+.social-icon-line{
+  position: relative;
+  display: inline-block;
+  margin:5px;
+}
+  div.facebook{
+  width: 25px;
+  height: 24px;
+  background-image: url("../assets/Facebook.png");
+  -webkit-transition-duration: 0.8s;
+  -moz-transition-duration: 0.8s;
+  -o-transition-duration: 0.8s;
+  transition-duration: 0.8s;
+  -webkit-transition-property: -webkit-transform;
+  -moz-transition-property: -moz-transform;
+  -o-transition-property: -o-transform;
+  transition-property: transform;
+  overflow: hidden;
+}
+div.facebook:hover{
+  -webkit-transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
+}
+div.twitter{
+  width: 24px;
+  height: 24px;
+  background-image: url("../assets/Twitter.png");
+  -webkit-transition-duration: 0.8s;
+  -moz-transition-duration: 0.8s;
+  -o-transition-duration: 0.8s;
+  transition-duration: 0.8s;
+  -webkit-transition-property: -webkit-transform;
+  -moz-transition-property: -moz-transform;
+   -o-transition-property: -o-transform;
+  transition-property: transform;
+  overflow: hidden;
+}div.twitter:hover{
+  -webkit-transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
+}
+div.google{
+  width: 25px;
+  height: 24px;
+  background-image: url("../assets/Google.png");
+  -webkit-transition-duration: 0.8s;
+  -moz-transition-duration: 0.8s;
+  -o-transition-duration: 0.8s;
+  transition-duration: 0.8s;
+  -webkit-transition-property: -webkit-transform;
+  -moz-transition-property: -moz-transform;
+  -o-transition-property: -o-transform;
+  transition-property: transform;
+  overflow: hidden;
+}
+div.google:hover{
+  -webkit-transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
+}
+div.pinterest{
+  width: 24px;
+  height: 24px;
+  background-image: url("../assets/Pinterest.png");
+  -webkit-transition-duration: 0.8s;
+  -moz-transition-duration: 0.8s;
+  -o-transition-duration: 0.8s;
+  transition-duration: 0.8s;
+  -webkit-transition-property: -webkit-transform;
+  -moz-transition-property: -moz-transform;
+  -o-transition-property: -o-transform;
+  transition-property: transform;
+  overflow: hidden;
+}
+div.pinterest:hover{
+  -webkit-transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
+}
+div.linkedin{
+  width: 25px;
+  height: 24px;
+  background-image: url("../assets/Linkedin.png");
+  -webkit-transition-duration: 0.8s;
+  -moz-transition-duration: 0.8s;
+  -o-transition-duration: 0.8s;
+  transition-duration: 0.8s;
+  -webkit-transition-property: -webkit-transform;
+  -moz-transition-property: -moz-transform;
+  -o-transition-property: -o-transform;
+  transition-property: transform;
+  overflow: hidden;
+}
+div.linkedin:hover{
+  -webkit-transform: rotate(360deg);
+  -moz-transform: rotate(360deg);
+  -o-transform: rotate(360deg);
+}
